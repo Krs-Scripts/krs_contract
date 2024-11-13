@@ -20,7 +20,7 @@ Perfect for RP servers looking for a smooth and immersive vehicle sales system! 
 
 ```lua
 	['contract'] = {
-		label = 'Contratto',
+		label = 'Contract',
 		consume = 0,
 		stack = false,
 		close = true,
