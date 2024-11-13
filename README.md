@@ -16,6 +16,9 @@ Perfect for RP servers looking for a smooth and immersive vehicle sales system! 
 - ox_lib
 - ox_inventory
 
+
+* File path
+
 * ox_inventory/data/items.lua
 
 ```lua
