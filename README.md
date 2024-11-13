@@ -11,11 +11,13 @@ Perfect for RP servers looking for a smooth and immersive vehicle sales system! 
 
 *Framework:*
 - ESX
-
+---------------
+---------------
 *Dependencies:*
 - ox_lib
 - ox_inventory
-
+----------------
+----------------
 
 * File path
 
