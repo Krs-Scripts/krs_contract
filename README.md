@@ -8,3 +8,7 @@ This script allows players to sell vehicles to each other in a realistic and sec
 - Features a **Discord logging system** to track every transaction.  
 
 Perfect for RP servers looking for a smooth and immersive vehicle sales system! 🚗
+
+
+![Screenshot 2024-11-13 111245](https://github.com/user-attachments/assets/7d72b375-e9c7-4648-9fbb-05c9525987ea)
+![Screenshot 2024-11-13 111253](https://github.com/user-attachments/assets/3df551c0-cb5f-4188-addf-1e2ea4094601)
