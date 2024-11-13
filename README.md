@@ -9,6 +9,26 @@ This script allows players to sell vehicles to each other in a realistic and sec
 
 Perfect for RP servers looking for a smooth and immersive vehicle sales system! 🚗
 
+*Framework:*
+- ESX
 
+*Dependencies:*
+- ox_lib
+- ox_inventory
+
+* ox_inventory/data/items.lua
+
+```lua
+	['contract'] = {
+		label = 'Contratto',
+		consume = 0,
+		stack = false,
+		close = true,
+		weight = 1,
+		client = {
+			export = 'krs_contract.contract'
+		}
+	},
+```
 ![Screenshot 2024-11-13 111245](https://github.com/user-attachments/assets/7d72b375-e9c7-4648-9fbb-05c9525987ea)
 ![Screenshot 2024-11-13 111253](https://github.com/user-attachments/assets/3df551c0-cb5f-4188-addf-1e2ea4094601)
